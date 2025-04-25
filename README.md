@@ -2,7 +2,7 @@
 
 This project is a simple and responsive web page made with **HTML** and **CSS**, dedicated to one of the most iconic hip-hop albums of all time: *To Pimp a Butterfly* by **Kendrick Lamar**.
 
-![Screenshot of the project](.assets/Imagem.png)
+![Screenshot of the project](assets/Imagem.png)
 
 ## 🧩 About
 
