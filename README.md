@@ -23,7 +23,7 @@ This page was created as a practice project to improve web development skills us
 
 ## 🚀 Live Preview
 
-(Hosting right now)
+[![View Live](https://img.shields.io/badge/View_Live-Click_Here-green?style=for-the-badge&logo=github)](https://enzoquirino.github.io/verbose-train/)
 
 Feel free to fork the repo, give it a ⭐️, and improve upon it!
 
